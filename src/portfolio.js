@@ -18,7 +18,7 @@ const splashScreen = {
 const illustration = {
   animated: true // Set to false to use static SVG
 };
-
+const hello = "hello"
 const greeting = {
   username: "Pawan Gupta",
   title: "Hi all, I'm Pawan Gupta",
